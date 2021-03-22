@@ -64,4 +64,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 ![Stripe](images/stripe.png)
-
+```python
+print[hello i am taking over the world]
+```
