@@ -63,5 +63,5 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 
-! [Stripe](images/stripe.png)
+![Stripe](images/stripe.png)
 
