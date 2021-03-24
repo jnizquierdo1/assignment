@@ -5,7 +5,7 @@ Name of the company I decided to do my case study about is: **Stripe**
 
 # Overview
 Stripe was incorporated in 2010 in San Francisco. 
-Stripe was founded by brothers, Patrick and John Collison from Ireland.
+It was founded by brothers, Patrick and John Collison from Ireland.
 
 The idea of creating this comapny came around 2010, the brothers debated why it was extremely difficult and tedious to accept payment on the web, they set a goal to solve the problem and make it very simple. 
 They made it their job to be able to make a platform as quick as possible, within six months they had a working platform. 
