@@ -1,6 +1,5 @@
 # HOMEWORK ASSIGNMENT
 
-## Overview and Origin
 
 Name of the company I decided to do my case study about is: **Stripe**
 
@@ -21,11 +20,16 @@ In an interview with Wired magazine, when the founders launched their first comp
 Most big companies at the time were trying to develop their own online processing payment systems which were very expensive to develop, for startups this was not a feasible option, so most startups were using Paypal, which was the "easier" way to make payments online, but the problem was that it was not. In the same Wired interview the brothers said that Paypal felt clunky and complex and it came with high setup fees, the brothers saw that for online companies that wanted to get their payment setup up and running quick there was still not a platform that could do that. 
 And that is how Stripe was born, Stripe simplifies the process of setting up online payments for for businesses. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 Stripes' customer base is very broad, according to their website they cater to to startups as well as fortune 500 companies. There a big companies that use the service of Stripe such as; Amazon, Shopify, Google, Salesforce among others.
 Accodring to Enlyft.com the top industries that use Stripe are, retail, Hospital & Health Care, computer software, restaurants, automotive, IT services and Real State.
-The latest data from 2020, the global payment processing market size 33.45 billion USD, Stripe currently has a market share 
+The latest data from 2020, the global payment processing market size 33.45 billion USD, Stripe currently accounts for 18.65% of the market share, Paypal has the biggest share of the market at 51.65%.
+Even though Paypal has the biggest share in the market, Stripe tries to stand out, they differentiate themsevles with the following;
+* Paypal has a very complex structuring of their fees that is dependent on various factors meanwhile Stripe offers a flat fee for all businesses. 
+* Stripes accepts a wide variety of payment types, beside the tradidional credit and debit cards they also accept ApplePay, WeChat Pay, AliPay, etc. 
+* Stripe accepts over 135 different currencies, Paypal only accepts 25 currencies. 
+* Third-Party integrations, Stripe has an extensive list of categories in terms of integration. Paypal offers very few options.
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
