@@ -2,24 +2,13 @@
 
 ## Overview and Origin
 
-* Name of company
-
-Name of the company is **Stripe**
-
-* When was the company incorporated?
+Name of the company i decided to do my case study about is: **Stripe**
 
 Stripe was incorporated in 2010 in San Francisco 
-
-* Who are the founders of the company?
-
 The company was founded by brothers, Patrick and John Collison
-
-* How did the idea for the company (or project) come about?
 
 In 2010 the brothers debated why it was extremely difficult and tedious to accept payment on the web, they set their goal to solve the problem and make it very simple. 
 They made it their job to be able to make a platform as quick as possible, within six months they had a working platform. 
-
-* How is the company funded? How much funding have they received?
 
 Stripe is funded by private investors, they recieved their first round of funding of two million dollars in 2011 from Sequoia Capital, AH Capital and paypal cofunders Elon Musk and Peter Thiel. 
 They have recieved a total of 12 rounds of funding with an amount of of 2.3 billion dollars, with their latest round of funding ($600million),the company is currently valuated at 95 billion dollars. 
