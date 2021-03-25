@@ -34,6 +34,7 @@ Even though Paypal has the biggest share in the market, Stripe tries to stand ou
 
 
 According to Stripe's blog, Stripe uses AWS and AWS Reserved Instances to power their infrastructure.
+
 Stripe also uses, Ruby, NSQ & Apache Impala.
 
 ## Landscape:
