@@ -28,7 +28,7 @@ The latest data from 2020, the global payment processing market size is 33.45 bi
 
 Even though Paypal has the biggest share in the market, Stripe tries to stand out, they differentiate themselves with the following:
 * Paypal has a very complex structuring of their fees that is dependent on various factors meanwhile Stripe offers a flat fee for all businesses. 
-* Stripes accepts a wide variety of payment types, beside the tradidional credit and debit cards they also accept ApplePay, WeChat Pay, AliPay, etc. 
+* Stripes accepts a wide variety of payment types, beside the traditional credit and debit cards they also accept ApplePay, WeChat Pay, AliPay, etc. 
 * Stripe accepts over 135 different currencies, Paypal only accepts 25 currencies. 
 * Third-Party integrations, Stripe has an extensive list of categories in terms of integration. Paypal offers very few options.
 
@@ -43,25 +43,29 @@ Stripe's domain is Payments/Billing
 The disruption from Fintech companies in the Digital Payments sector has had a big impact, it has enhanced convenience as well as accessibility  for customers as well as businesses. They have also facilitated businesses by using cloud computing and much friendlier APIs.
 Over the last ten years we have seen a decline of purchases made in person at brick and mortar shops and the growth of e-commerce, which has made this field very competitive, there are a lot of companies in this domain such as Paypal, Ayden, expex, Square Payments, Braintree.
 
+Stripe is not only working on payment processing anymore but also is has expanded "to providing an increasingly comprehensive suite of products that make it easy to start and run an online business.”
+They have created different branches of their business that focus on various aspect of finance, such as **Stripe Issuing** which facilitates in instantly creating physical and virtual credit cards with real-time authorizations. **Stripe Radar** which applies machine learning to billions of transactions to detect fraud. **Stripe Atlas** which allows entrepreneurs anywhere in the world, to incorporate their companies in the U.S.
+
 
 
 ## Results
 
 Stripe has had a very big impact in our economy, according to a Bloomberg article in 2017 at least half of Americans who bought something online used Stripe, Stripe tends to be used by a lot of startups because the low flat fees associated with them. 
 
-Besides its financial reports. Stripe measures success by measuring the success of their customers, in the Foester Total Economic Impact report, "Platforms and marketplaces achieve 364% ROI with stripe
+Besides its financial reports. Stripe measures success by measuring the success of their customers, in the Foester Total Economic Impact report, "Platforms and marketplaces achieve 364% ROI with stripe.
 
-In this domain companies use core metricts suchs as:
+In this domain companies use core metrics such as:
 * Churn rate: measures the percentage of customers who unsubscribe within a period.
-* Rentention rate: the percentage of subscribers who continue to use the product or service during a given time period.
-* Monthly Recurring Revenue: is the recurring revenue of the company 
-* Average Revenue Per Unit: it measures the average revenue per user/unit gives you an account of the average revenue gained from a user/unit
-* How is your company performing relative to competitors in the same domain?
+* Retention rate: the percentage of subscribers who continue to use the product or service during a given time period.
+* Monthly Recurring Revenue: is the recurring revenue of the company. 
+* Average Revenue Per Unit: it measures the average revenue per user/unit gives you an account of the average revenue gained from a user/unit.
+* Life Time Value: is the total revenue gained from a customer.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I think the biggest opportunity for Stripe comes with expansion, Globally they are not as big as their biggest competitor PayPal. PayPal currently accepts payments from users in over 200 countries while Stripe only accepts payments from users in 42 countries.
+My recommendation will be to expand to Central and South America as well as Asia and Africa, as it is shown in their own website they have no presence in those territories.
 
 * Why do you think that offering this product or service would benefit the company?
 
