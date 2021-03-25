@@ -74,18 +74,33 @@ QR code payments, due to covid I have seen less and less people using cash. I th
 
 ## Sources
 Stripe: https://stripe.com/
+
 Bloomberg: https://www.bloomberg.com/news/features/2017-08-01/how-two-brothers-turned-seven-lines-of-code-into-a-9-2-billion-startup
+
 Wired: https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook
+
 enlyft: https://enlyft.com/tech/products/stripe
+
 Forrester report: https://d37ugbyn3rpeym.cloudfront.net/reports/forrester-tei-2018/forrester-tei-stripe-connect-EN.pdf
+
 ChartMogul: https://blog.chartmogul.com/why-is-stripe-so-popular/
+
 Crunchbase: https://www.crunchbase.com/organization/stripe
+
 Fundera: https://www.fundera.com/blog/stripe-competitors
+
 Medium: https://medium.com/fintechtris/fintech-focus-digital-payments-in-financial-services-ee2e5c559e32
+
 Stripe Newsroom: https://stripe.com/newsroom
+
 CNBC: https://www.cnbc.com/2021/03/14/stripe-valued-at-95-billion-in-600-million-funding-round.html
+
 Craft: https://craft.co/stripe/funding-rounds
+
 CBInsights: https://www.cbinsights.com/research/report/stripe-teardown/
+
 Nasdaq: https://www.nasdaq.com/articles/stripe%3A-the-internets-most-undervalued-company-2020-09-01
+
 TechCrunch: https://techcrunch.com/2012/05/20/the-story-behind-payment-disruptor-stripe-com-and-its-founder-patrick-collison/
+
 wpbuffs: https://wpbuffs.com/stripe-vs-paypal/#:~:text=However%2C%20one%20of%20the%20biggest,of%20customization%20and%20developer%20tools.
