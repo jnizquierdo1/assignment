@@ -7,22 +7,27 @@ Name of the company I decided to do my case study about is: **Stripe**
 Stripe was incorporated in 2010 in San Francisco. 
 It was founded by brothers, Patrick and John Collison from Ireland.
 
-The idea of creating this company came around 2010, the brothers debated why it was extremely difficult and tedious to accept payment on the web, they set a goal to solve the problem and make it very simple. 
+The idea of creating this company came around 2010, the brothers debated why it was extremely difficult and tedious to accept payments on the web, they set a goal to solve the problem and make it very simple. 
 They made it their job to be able to make a platform as quick as possible, within six months they had a working platform. 
 
 Stripe is funded by private investors, they received their first round of funding of two million dollars in 2011 from Sequoia Capital, AH Capital and PayPal cofounders Elon Musk and Peter Thiel. 
 They have received  a total of 12 rounds of funding with an amount of 2.3 billion dollars, with their latest round of funding $600 million at a valuation of 95 billion dollars.
-In 2021 there has been a lot of rumors about Stripe going public, some people are speculating that it could be the biggest IPO of 2021.
+
+In 2021 there has been a lot of rumors about Stripe going public, some people are speculating that it could be the biggest IPO of 2021 but the founders have said there are no plans on taking the company public.
 
 ## Business Activities:
 
 In an interview with Wired magazine, when the founders launched their first company in 2007, they realized that the "hardest part or having an online business was not acquiring customers, marketing or coding but rather accepting customer's money".
-Most big companies at the time were trying to develop their own online processing payment systems which were very expensive to develop, for startups this was not a feasible option, so most startups were using Paypal, which was the "easier" way to make payments online, but the problem was, that it was not. In the same Wired interview, the brothers said that Paypal felt clunky and complex and it came with high setup fees, the brothers saw that for online companies that wanted to get their payment setup up and running quick there was still not a platform that could do that. 
+Most big companies at the time were trying to develop their own online processing payment systems which were very expensive to develop, for startups this was not a feasible option, so most startups were using Paypal, which was the "easier" way to make payments online, but the problem was, that it was not. 
+
+In the same Wired interview, the brothers said that Paypal felt clunky and complex and it came with high setup fees, the brothers saw that for online companies that wanted to get their payment setup up and running quick there was still not a platform that could do that. 
 And that is how Stripe was born, Stripe simplifies the process of setting up online payments for businesses. 
 
 
 Stripe's customer base is very broad, according to their website they cater to startups as well as Fortune 500 companies. There a big companies that use the service of Stripe such as; Amazon, Shopify, Google, Salesforce among others.
+
 According to Enlyft the top industries that use Stripe are, Retail, Hospital & Health Care, Computer software, restaurants, automotive, IT services and Real State.
+
 The latest data from 2020, the global payment processing market size is 33.45 billion USD, Stripe currently accounts for 18.65% of the market share, Paypal has the biggest share of the market at 51.65%.
 
 
@@ -43,7 +48,7 @@ Stripe's domain is Payments/Billing
 
 The disruption from Fintech companies in the Digital Payments sector has had a big impact, it has enhanced convenience and accessibility  for customers as well as businesses. They have also facilitated businesses by using cloud computing and much friendlier APIs.
 
-Over the last ten years we have seen a decline of purchases made in person at brick and mortar shops and the growth of e-commerce, which has made this field very competitive, there are a lot of companies in this domain such as Paypal, Ayden, expex, Square Payments, Braintree.
+Over the last ten years, we have seen a decline of purchases made in person at brick and mortar shops and the growth of e-commerce, which has made this field very competitive, there are a lot of companies in this domain such as Paypal, Ayden, expex, Square Payments, Braintree.
 
 Stripe is not only working on payment processing anymore but also is has expanded "to providing an increasingly comprehensive suite of products that make it easy to start and run an online business.”
 They have created different branches of their business that focus on various aspect of finance, such as **Stripe Issuing** which facilitates in instantly creating physical and virtual credit cards with real-time authorizations. **Stripe Radar** which applies machine learning to billions of transactions to detect fraud. **Stripe Atlas** which allows entrepreneurs anywhere in the world, to incorporate their companies in the U.S.
@@ -69,10 +74,14 @@ In this domain companies use core metrics such as:
 I think the biggest opportunity for Stripe comes with expansion, Globally they are not as big as their biggest competitor PayPal. PayPal currently accepts payments from users in over 200 countries while Stripe only accepts payments from users in 42 countries.
 My recommendation will be to expand to Central and South America as well as Asia and Africa, as it is shown in their own website they have no presence in those territories. The reason why they do not have a bigger market share is because they have not expanded as much as other competitors, by expanding this can benefit the company and increase revenue which can lead to lowering their fees.
 
-Another opportunity for Stripe can be, introducing some sort of "buy now pay later" type of of program. Lately I have seen a lot of companies that offer these type of services, Paypal recently introduced their own version in which you can pay back your purchase in four equal payments.
+Another opportunity for Stripe can be, introducing some sort of "buy now pay later" type of program. Lately I have seen a lot of companies that offer these type of services, Paypal recently introduced their own version in which you can pay back your purchase in four equal payments.
 
-QR code payments, due to covid I have seen less and less people using cash. I think a big opportunity is introducing QR code payments in restaurants. WeChat has already introduced this future in China. 
----------------------------
+QR code payments, due to covid I have seen less and less people using cash. I think a big opportunity is introducing QR code payments in restaurants. WeChat has already introduced this feature in China. 
+
+In conclusion, I believe that Stripe is just starting as a company, the founders have said that they do not have any plans on taking the company public for now and I believe this is great because it allows them to push the company as many ways as they would like to. They recently have announced that they acquired Paystack, a company that many refer to as " The Stripe of Africa". 
+
+Within the next 10 years or so I believe Stripe can be one of the biggest Fintech companies in the World yet not many peolple that are not familiar with this industry have never heard about it.
+
 ## Sources
 Stripe: https://stripe.com/
 
