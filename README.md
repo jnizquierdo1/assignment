@@ -3,7 +3,8 @@
 
 Name of the company I decided to do my case study about is: **Stripe**
 
-## Overview
+## Overview:
+
 Stripe was incorporated in 2010 in San Francisco. 
 It was founded by brothers, Patrick and John Collison from Ireland.
 
@@ -55,7 +56,7 @@ They have created different branches of their business that focus on various asp
 
 
 
-## Results
+## Results:
 
 Stripe has had a very big impact in our economy, according to a Bloomberg article in 2017 at least half of Americans who bought something online used Stripe, Stripe tends to be used by a lot of startups because the low flat fees associated with them. 
 
@@ -69,7 +70,7 @@ In this domain companies use core metrics such as:
 * Life Time Value: is the total revenue gained from a customer.
 
 
-## Recommendations
+## Recommendations:
 
 I think the biggest opportunity for Stripe comes with expansion, Globally they are not as big as their biggest competitor PayPal. PayPal currently accepts payments from users in over 200 countries while Stripe only accepts payments from users in 42 countries.
 My recommendation will be to expand to Central and South America as well as Asia and Africa, as it is shown in their own website they have no presence in those territories. The reason why they do not have a bigger market share is because they have not expanded as much as other competitors, by expanding this can benefit the company and increase revenue which can lead to lowering their fees.
