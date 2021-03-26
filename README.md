@@ -72,7 +72,7 @@ My recommendation will be to expand to Central and South America as well as Asia
 Another opportunity for Stripe can be, introducing some sort of "buy now pay later" type of of program. Lately I have seen a lot of companies that offer these type of services, Paypal recently introduced their own version in which you can pay back your purchase in four equal payments.
 
 QR code payments, due to covid I have seen less and less people using cash. I think a big opportunity is introducing QR code payments in restaurants. WeChat has already introduced this future in China. 
-
+---------------------------
 ## Sources
 Stripe: https://stripe.com/
 
